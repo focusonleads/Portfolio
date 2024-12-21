@@ -38,8 +38,8 @@ The portfolio is deployed using **GitHub Pages**. You can access it [here](https
 
 ## Contact
 For any questions or suggestions, feel free to reach out:
-- **Email**: [saad@example.com](mailto:saad@example.com)
-- **Phone**: +123-456-7890
+- **Email**: [saadgohar6913@gmail.com](mailto:saadgohar6913@gmail.com)
+- **Phone**: +92 319 3386913
 
 ---
 
